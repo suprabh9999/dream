@@ -1,0 +1,14 @@
+$spacing-s : 10px;
+$spacing-m : 20px;
+
+.identityCardContainer{
+    border : 1px solid grey;
+    border-radius: $spacing-s;
+    width : 250px;
+    padding: $spacing-m 0; 
+    text-align : center; 
+    box-shadow: $spacing-s $spacing-s grey;
+    cursor: pointer;
+    margin : $spacing-s;
+    
+}

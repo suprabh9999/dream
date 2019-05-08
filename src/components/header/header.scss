@@ -1,0 +1,27 @@
+$spacing-s : 10px;
+$spacing-xs : 5px;
+
+.headerContainer{
+    display: flex;
+    justify-content: space-around;
+    background-image: linear-gradient(to right,tomato, yellow);
+    padding: $spacing-s 0;
+}
+.headerBtn{
+    background : transparent;
+    border : none;
+    cursor : pointer;
+    background-color : white;
+    border-radius : $spacing-s;
+    padding : $spacing-xs $spacing-s;   
+}
+
+.headerBtn:hover {
+    background-color : black;
+    color : white;
+}
+
+.headerBtn:focus{
+    outline : none; 
+}
+
