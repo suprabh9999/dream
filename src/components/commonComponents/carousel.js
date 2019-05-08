@@ -1,5 +1,4 @@
 import React from 'react';
-import source from '../../assets/people1.jpg';
 import source1 from '../../assets/dood.jpg';
 import source2 from '../../assets/dood1.jpg';
 import source3 from '../../assets/dood2.jpg';
@@ -8,9 +7,9 @@ class Carousel extends React.Component {
     constructor(){
         super();
         this.state = {
-            sourceFile : source,
-            srcArr : [ source1, source2, source3 ],
-            copy : [source, source1, source2, source3]
+            sourceFile : source1,
+            srcArr : [ source2, source3 ],
+            copy : [source1, source2, source3]
         }
         this.abc();
     }
