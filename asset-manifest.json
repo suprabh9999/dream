@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/dream/static/css/main.8220d4a0.chunk.css",
+    "main.js": "/dream/static/js/main.d77995aa.chunk.js",
+    "main.js.map": "/dream/static/js/main.d77995aa.chunk.js.map",
+    "runtime~main.js": "/dream/static/js/runtime~main.263f3cbf.js",
+    "runtime~main.js.map": "/dream/static/js/runtime~main.263f3cbf.js.map",
+    "static/js/2.8871ae74.chunk.js": "/dream/static/js/2.8871ae74.chunk.js",
+    "static/js/2.8871ae74.chunk.js.map": "/dream/static/js/2.8871ae74.chunk.js.map",
+    "index.html": "/dream/index.html",
+    "precache-manifest.29e534834e71974e8ab10c22d43b9e4b.js": "/dream/precache-manifest.29e534834e71974e8ab10c22d43b9e4b.js",
+    "service-worker.js": "/dream/service-worker.js",
+    "static/css/main.8220d4a0.chunk.css.map": "/dream/static/css/main.8220d4a0.chunk.css.map",
+    "static/media/dood.jpg": "/dream/static/media/dood.aa260333.jpg",
+    "static/media/dood1.jpg": "/dream/static/media/dood1.b0336eb0.jpg",
+    "static/media/dood2.jpg": "/dream/static/media/dood2.482ca106.jpg",
+    "static/media/people1.jpg": "/dream/static/media/people1.35b69895.jpg"
+  }
+}
